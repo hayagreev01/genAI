@@ -1,0 +1,1 @@
+# notebooks with GenAI work
